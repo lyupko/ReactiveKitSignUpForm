@@ -1,0 +1,7 @@
+#
+# Swift 3
+#
+# Reactive
+#
+github "ReactiveKit/ReactiveKit" ~> 3.0
+github "ReactiveKit/Bond" ~> 6.0
